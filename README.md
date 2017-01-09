@@ -18,8 +18,8 @@ Learn everything you need to about the subject of this `eBook` project.
 Table of Contents
 [x] Preface
 [x] 1: GETTING STARTED – DEVOPS CONCEPTS, TOOLS, AND TECHNOLOGIES
-[~] 2: CONTINUOUS INTEGRATION WITH JENKINS 2 utpto 
-       => Managing nodes
+[~] 2: CONTINUOUS INTEGRATION WITH JENKINS 2 utpto
+       => Sending e-mail notifications based on build status.
 [ ] 3: BUILDING THE CODE AND CONFIGURING THE BUILD PIPELINE
 [ ] 4: INSTALLING AND CONFIGURING CHEF
 [ ] 5: INSTALLING AND CONFIGURING DOCKER
