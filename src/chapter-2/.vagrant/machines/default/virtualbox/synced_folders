@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/projects":{"guestpath":"/home/vagrant/projects","hostpath":"/Users/enogrob/Things/Projects","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/enogrob/Things/Projects/ebook-devops-for-web-development/src/chapter-2","disabled":false,"__vagrantfile":true}}}
