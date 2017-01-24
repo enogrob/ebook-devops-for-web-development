@@ -18,8 +18,7 @@ Learn everything you need to about the subject of this `eBook` project.
 Table of Contents
 [x] Preface
 [x] 1: GETTING STARTED – DEVOPS CONCEPTS, TOOLS, AND TECHNOLOGIES
-[~] 2: CONTINUOUS INTEGRATION WITH JENKINS 2 utpto
-       => Integrating Jenkings and Sonar. Step 7
+[x] 2: CONTINUOUS INTEGRATION WITH JENKINS 2 utpto
 [ ] 3: BUILDING THE CODE AND CONFIGURING THE BUILD PIPELINE
 [ ] 4: INSTALLING AND CONFIGURING CHEF
 [ ] 5: INSTALLING AND CONFIGURING DOCKER
